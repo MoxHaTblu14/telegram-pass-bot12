@@ -1,0 +1,4 @@
+aiogram
+weasyprint
+yagmail
+jinja2
